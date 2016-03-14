@@ -1,0 +1,64 @@
+@media (max-width: 900px) {
+  html { background: green; }
+}
+
+/*All the footer stuff*/
+footer {
+  width:100%;
+  position: relative;
+  text-align: center;
+  bottom: 0;
+}
+
+footer a {
+  padding-right: 4px;
+  margin: 0;
+ 
+}
+
+/*All the header stuff*/
+header {
+  padding: 1% 0;
+}
+
+header a {
+  padding: 0 1%;
+  margin: 0;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+/*All the link stuff*/
+a {
+  text-decoration: none;
+}
+a:link
+{
+   color: #204156;
+   text-decoration: none!important;
+   position: relative;
+}
+
+a:hover{
+   color: #204156;
+   text-decoration: none!important;
+   font-weight: bold;
+   position: relative;
+}
+
+a:visited {
+   color: #204156;
+   text-decoration: none!important;
+   position: relative;
+}
+
+a:active
+{
+   color: #204156;
+   text-decoration: none!important;
+   top: 2px;
+
+}
