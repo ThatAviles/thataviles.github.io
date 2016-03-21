@@ -1,5 +1,7 @@
+/* Main CSS File */
+
 @media (max-width: 900px) {
-  html { background: green; }
+  html { background: white; }
 }
 
 /*All the footer stuff*/
@@ -13,7 +15,7 @@ footer {
 footer a {
   padding-right: 4px;
   margin: 0;
- 
+
 }
 
 /*All the header stuff*/
@@ -32,9 +34,7 @@ header h1 {
 }
 
 /*All the link stuff*/
-a {
-  text-decoration: none;
-}
+
 a:link
 {
    color: #204156;
@@ -44,7 +44,7 @@ a:link
 
 a:hover{
    color: #204156;
-   text-decoration: none!important;
+   text-decoration: none;
    font-weight: bold;
    position: relative;
 }

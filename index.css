@@ -1,3 +1,5 @@
+/* Index-Page CSS File */
+
 .jumbotron-fluid {
   display: flex;
   align-items: center;
@@ -23,4 +25,9 @@
   color: #204156;
 }
 
+/* Read more Attributes */
 
+#readmore {
+  color: #000090!important;
+  font-weight: bold!important;
+}
