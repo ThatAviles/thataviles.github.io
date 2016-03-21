@@ -1,5 +1,11 @@
 /* Index-Page CSS File */
 
+@media (max-width: 900px){
+  .jumbotron-fluid {
+    height: 500px!important;
+  }
+}
+
 .jumbotron-fluid {
   display: flex;
   align-items: center;
