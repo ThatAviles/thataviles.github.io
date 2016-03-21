@@ -1,0 +1,24 @@
+/* Store-Page CSS File */
+
+@media (min-width: 1280px) and (max-width: 1300px) {
+  .storepics {
+  	width: 100%;
+  	height: 100%;
+   }
+}
+
+#picblurbs {
+	margin-left: 3%;
+}
+
+.storepics {
+	margin-left: 10%;
+	margin-right: 5%;
+
+}
+
+.storeblurbs {
+	margin-left: 10%;
+	margin-right: 5%;
+
+}

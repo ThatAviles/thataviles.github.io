@@ -1,3 +1,5 @@
+/* Index-Page CSS File */
+
 .jumbotron-fluid {
   display: flex;
   align-items: center;
@@ -8,6 +10,10 @@
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+.mobilediv {
+  color: #000000;
+}
+
 .container-fluid h2 {
   font-size: 50px;
   font-weight: 700;
@@ -15,21 +21,13 @@
   color: #FFFFFF;
 }
 
-#fuck {
-  margin: 0 0 20px;
-  color: #FFFFFF;
+.row h1 {
+  color: #204156;
 }
 
-.row h3 {
-  color: #000000;
-}
+/* Read more Attributes */
 
-
-#topleft {
-  
+#readmore {
+  color: #000090!important;
+  font-weight: bold!important;
 }
-
-#topright {
-  
-}
-/* Bottom what i do stuff */
