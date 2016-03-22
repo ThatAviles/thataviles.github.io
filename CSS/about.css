@@ -1,1 +1,11 @@
 /* About-Page CSS File */
+@media (max-width: 900px){
+  #headshot img {
+    height: 470px!important;
+    width: 100%!important;
+  }
+
+#headshot img {
+  height: 200px;
+  width: 300px;
+}

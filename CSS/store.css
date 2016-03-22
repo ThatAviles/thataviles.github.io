@@ -1,8 +1,8 @@
 /* Store-Page CSS File */
 
-@media (min-width: 1280px) and (max-width: 1300px) {
+@media (min-width: 1024px) and (max-width: 1300px) {
   .storepics {
-  	width: 100%;
+  	width: 90%;
   	height: 100%;
    }
 }
